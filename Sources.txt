@@ -1,0 +1,5 @@
+Джерела датасету: 
+1. https://drive.google.com/drive/folders/1RpivIgIFGlvTCNRJXSwY3A0-FRySJHvg
+2. http://database.ukrcensus.gov.ua/statbank_lviv/Database/23ZDOROV/databasetree_uk.asp
+
+Статі на відповідну тему:
