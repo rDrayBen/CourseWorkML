@@ -1,0 +1,22 @@
+Pseudo code for the random forest algorithm
+
+To generate c classifiers:
+for i = 1 to c do
+    Randomly sample the training data D with replacement to produce D;
+    Create a root node, N, containing D,
+    Call BuildTree(Ni)
+end for
+
+BuildTree(N):
+if N contains instances of only one class then
+    return
+else
+    Randomly select x% of the possible splitting features in N
+    Select the feature F with the highest information gain to split on
+    Create f child nodes of N, N1 .... , N , where F has f possible values (F,, ... , F)
+    for i = 1 to f do
+        Set the contents of N, to D1, where D, is all instances in N that match
+        F
+        Call BuildTree(Ni)
+    end for
+end if

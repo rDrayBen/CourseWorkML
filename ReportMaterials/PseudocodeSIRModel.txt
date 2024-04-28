@@ -1,0 +1,28 @@
+Pseudo-code for SIR model inversion by global optimization.
+function MAIN
+    read dataset
+    set t
+    set fixed = (p(fix), t)
+    set bounds = range for p(cal)
+    for run = 0 to Number_of runs parallel do
+        call single run (bounds, fixed)
+    end for
+    read and assembles results from single runs
+    save and draw results
+end function
+function SINGLE_RUN(bounds, fixed)
+    call differential_evolution (Objective function, bounds, fixed)
+    save results of a single run
+end function
+function OBJECTIVE_FUNCTION(p, t)
+    s = SIRmodel (p)
+    objfun=Oy(s),t(p)
+    return objfun
+end function
+function SIRMODEL(p)
+    initialize Snini
+    for n = nini + 1 to nini + N(mod) - 1 do
+        compute sn from sn-1 by (10)
+    end for
+    return s
+end function
