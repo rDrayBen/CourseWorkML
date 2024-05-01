@@ -1,6 +1,6 @@
 Джерела датасету: 
-1. https://drive.google.com/drive/folders/1Kz4San98bt1b95goc2SijmO15eTQj4Lv?usp=sharing
-2. http://database.ukrcensus.gov.ua/statbank_lviv/Database/23ZDOROV/databasetree_uk.asp
+1. [Dataset 1](https://drive.google.com/drive/folders/1Kz4San98bt1b95goc2SijmO15eTQj4Lv?usp=sharing)
+2. [Dataset 2](http://database.ukrcensus.gov.ua/statbank_lviv/Database/23ZDOROV/databasetree_uk.asp)
 
 Пояснення до п.1 розділу Джерела датасету:
 Таблиці з часовими проміжками мають різне сенсове наповнення. В кожній з таблиць, сторінки помічені 4 кольорами, тому якщо лист таблиці має пошкоджену інформацію(чорний колір), не є потрібним для досліду(червоний колір), може бути використаний для дослідження(помаранчевий колір) та буде використаний для дослідження(зелений колір).
