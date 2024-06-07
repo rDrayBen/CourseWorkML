@@ -1,7 +1,6 @@
 # CourseWorkML
-Курсова робота з предмету Машинне навчання на тему "Моделювання поширення туберкульозу на території областей України на 2024 рік з визначенням найуразливіших груп за ознаками статі та віку."
+Course work on the subject Machine learning on the topic "Modeling the spread of tuberculosis in the territory of the regions of Ukraine for 2024 with the determination of the most vulnerable groups by gender and age."
 
-Для досягнення поставлених цілей були використані такі технології як: 
-1. Random Forest для визначення кількості захворювань для кожної групи статі та віку, з чого робилися висновки про найуразливішу групу.
-2. SIR модель клітинних автоматів для моделювання поширення захворювання на території кожної з областей України.
-
+To achieve the goals, were used such technologies as: 
+1. Random Forest to determine the number of diseases for each gender and age group, from which conclusions were drawn about the most vulnerable group.
+2. SIR model of cellular automata for simulating the spread of the disease on the territory of each region of Ukraine.
