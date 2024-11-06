@@ -1,4 +1,4 @@
-# CourseWorkML
+# Machine Learning Tuberculosis research
 Course work on the subject Machine learning on the topic "Modeling the spread of tuberculosis in the territory of the regions of Ukraine for 2024 with the determination of the most vulnerable groups by gender and age."
 
 To achieve the goals, were used such technologies as: 
